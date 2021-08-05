@@ -1,0 +1,17 @@
+2021-08-04T18:31:34.547063 : Item: Item{name=Sprite, cost=2.00, numItems=2} REMOVED.
+2021-08-04T18:45:54.621989 : Item: Item{name=Fanta, cost=2.25, numItems=7} REMOVED.
+2021-08-04T18:48:34.486875 : Item: Item{name=Fanta, cost=2.25, numItems=7} REMOVED.
+2021-08-04T18:50:51.245057 : Item: Item{name=Fanta, cost=2.25, numItems=7} REMOVED.
+2021-08-04T18:52:09.879891 : Item: Item{name=Fanta, cost=2.25, numItems=7} REMOVED.
+2021-08-04T18:52:18.542344 : Item: Item{name=Fanta, cost=2.25, numItems=7} REMOVED.
+2021-08-04T18:52:25.255745 : Item: Item{name=Fanta, cost=2.25, numItems=7} REMOVED.
+2021-08-04T18:54:16.658914 : Item: Item{name=Coke Zero, cost=2.50, numItems=4} REMOVED.
+2021-08-04T18:57:55.375311 : Item: Item{name=Fanta, cost=2.25, numItems=7} REMOVED.
+2021-08-04T19:13:43.716599 : Item: Item{name=Fanta, cost=2.25, numItems=7} REMOVED.
+2021-08-04T19:27:59.084525 : Item: Item{name=Coke Zero, cost=2.50, numItems=4} REMOVED.
+2021-08-04T19:29:04.908897 : Item: Item{name=Fanta, cost=2.25, numItems=6} REMOVED.
+2021-08-04T19:57:14.544384 : Item: Item{name=Diet Coke, cost=2.50, numItems=14} REMOVED.
+2021-08-05T11:46:03.023666 : Item: Item{name=Root Beer, cost=1.75, numItems=0} REMOVED.
+2021-08-05T13:14:22.856467 : Item: Item{name=Diet Fanta, cost=2.25, numItems=5} REMOVED.
+2021-08-05T13:28:42.633169 : Item: Item{name=Sunkist, cost=1.75, numItems=22} REMOVED.
+2021-08-05T13:29:08.965480 : Item: Item{name=Diet Coke, cost=2.50, numItems=13} REMOVED.

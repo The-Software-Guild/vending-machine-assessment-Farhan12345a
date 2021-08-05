@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.fshahbaz.vending_machine.dao.Vending_Machine_Dao_File_ImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.663 sec <<< FAILURE! - in com.fshahbaz.vending_machine.dao.Vending_Machine_Dao_File_ImplTest
+testRemoveItem  Time elapsed: 0.137 sec  <<< ERROR!
+java.lang.NumberFormatException: Character n is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+	at com.fshahbaz.vending_machine.dao.Vending_Machine_Dao_File_ImplTest.testRemoveItem(Vending_Machine_Dao_File_ImplTest.java:126)
+

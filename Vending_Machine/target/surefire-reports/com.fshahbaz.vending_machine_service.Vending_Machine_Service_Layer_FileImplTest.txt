@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.fshahbaz.vending_machine_service.Vending_Machine_Service_Layer_FileImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 1.126 sec <<< FAILURE! - in com.fshahbaz.vending_machine_service.Vending_Machine_Service_Layer_FileImplTest
+testGetItem  Time elapsed: 0.425 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Item stored should be Fanta. ==> expected: <null> but was: <Item{name=Fanta, cost=6.00, numItems=12}>
+	at com.fshahbaz.vending_machine_service.Vending_Machine_Service_Layer_FileImplTest.testGetItem(Vending_Machine_Service_Layer_FileImplTest.java:49)
+
+testRemoveItem  Time elapsed: 0.017 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.fshahbaz.vending_machine_service.Vending_Machine_Service_Layer_FileImplTest.testRemoveItem(Vending_Machine_Service_Layer_FileImplTest.java:93)
+

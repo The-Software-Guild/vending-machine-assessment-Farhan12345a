@@ -1,0 +1,4 @@
+Diet Coke::2.50::13
+Diet Fanta::2.25::5
+Sunkist::1.75::22
+Root Beer::1.75::0
