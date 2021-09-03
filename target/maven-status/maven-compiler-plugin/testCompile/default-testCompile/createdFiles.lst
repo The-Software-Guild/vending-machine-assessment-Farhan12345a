@@ -1,0 +1,4 @@
+com/fs/personaltrainer/dao/ClientDaoDBTest.class
+com/fs/personaltrainer/dao/TrainerDaoDBTest.class
+com/fs/personaltrainer/dao/WorkoutDaoDBTest.class
+com/fs/personaltrainer/PersonaltrainerApplicationTests.class

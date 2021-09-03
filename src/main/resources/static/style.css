@@ -1,0 +1,64 @@
+h1 {
+    font-family: arial;
+    text-transform: uppercase;
+    background: appworkspace;
+    color:red;
+    letter-spacing: 10px;
+    
+}
+p{
+    text-align: center;
+    font-style: italic;
+    color:greenyellow;
+    line-height:40px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.btn{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: #FFFF99;
+    text-align: center;
+    text-transform: uppercase;
+    width:160px;
+    boarder-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration:0.3s;
+    -webkit-transition-property: box-shadow,transform;
+}
+
+#infoBut{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: #FFFF99;
+    text-align: center;
+    text-transform: uppercase;
+    width:260px;
+    boarder-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration:0.3s;
+    -webkit-transition-property: box-shadow,transform;
+}
+
+.btn:hover, .btn:focous, .btn:active{
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    -webkit-transform: scale(1.1);
+    transform:scale(1.1);
+}
+.container{
+  background-color: #90EE90;
+}
+.blue{
+  background-color:blue;
+}
+.green{
+  background-color:green;
+}

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fs.personaltrainer.dao.WorkoutDaoDBTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.591 sec - in com.fs.personaltrainer.dao.WorkoutDaoDBTest
